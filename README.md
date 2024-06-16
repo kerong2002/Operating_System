@@ -13,7 +13,8 @@
 ### Belady's anomaly
 - frame：4, page-fault：10
 
-![image](https://github.com/kerong2002/Operating_System/assets/70834651/e7d38635-525c-41bd-ab73-fb80f17496be)
+![image](https://github.com/kerong2002/Operating_System/assets/70834651/376fd42d-e903-4f9d-bedd-59129ce53430)
+
 
 ## [Optimal](https://github.com/kerong2002/Operating_System/blob/main/page_replacement/Optimal_page_replacement.cpp)
 - frame：4, page-fault：6
