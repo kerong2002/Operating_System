@@ -19,5 +19,7 @@
 ## [Optimal](https://github.com/kerong2002/Operating_System/blob/main/page_replacement/Optimal_page_replacement.cpp)
 - frame：4, page-fault：6
 
+![image](https://github.com/kerong2002/Operating_System/assets/70834651/66310557-92e6-492b-97c9-2e833fc95a97)
+
 
 </details>
