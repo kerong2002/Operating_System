@@ -10,4 +10,10 @@
 
 ![image](https://github.com/kerong2002/Operating_System/assets/70834651/aa77cf01-3937-4d69-882a-6ee1128ed6b6)
 
+### Belady's anomaly
+- frame：4, page-fault：10
+
+![image](https://github.com/kerong2002/Operating_System/assets/70834651/e7d38635-525c-41bd-ab73-fb80f17496be)
+
+
 </details>
