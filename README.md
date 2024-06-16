@@ -3,7 +3,7 @@
 <summary><h2><b>Page_Replacement</b></h2></summary> 
 
 ## Reference_string
-- 1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5
+### [1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5]
 
 ## [First-In-First-Out](https://github.com/kerong2002/Operating_System/blob/main/page_replacement/First-In-First-OUT_page_replacement.cpp)
 - frame：3, fage-fault：9
