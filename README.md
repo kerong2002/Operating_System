@@ -4,6 +4,6 @@
     
 | 演算法 | frame-sizes | page-fault|
 | :-: | :-: | :-: |
-| |3|9|
+| [FIFO](https://github.com/kerong2002/Operating_System/blob/main/page_replacement/First-In-First-OUT_page_replacement.cpp)|3|9|
 	 
 </details>
