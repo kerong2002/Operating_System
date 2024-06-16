@@ -22,4 +22,8 @@
 ![image](https://github.com/kerong2002/Operating_System/assets/70834651/66310557-92e6-492b-97c9-2e833fc95a97)
 
 
+## [Least-Recently-Used](https://github.com/kerong2002/Operating_System/blob/main/page_replacement/Least-Recently-Used_page_replacement.cpp)
+- frame：4, page-fault：8
+
+
 </details>
